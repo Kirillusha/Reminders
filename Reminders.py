@@ -1,5 +1,5 @@
 # Reminders
-Модуль для напоминании
+#Модуль для напоминании
 # -*- coding: utf-8 -*-
 # meta developer: @ST_Modules
 # scope: hikka_only
